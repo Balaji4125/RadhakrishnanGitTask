@@ -7,6 +7,11 @@ public class Abc {
 
 	}
 
+	private void xyz1() {
+
+		System.out.println("B code");
+	}
+
 	public static void main(String[] args) {
 
 	}
