@@ -7,6 +7,10 @@ public class Abc {
 
 	}
 
+	private void xyz() {
+		System.out.println("A code added");
+	}
+
 	public static void main(String[] args) {
 
 	}
