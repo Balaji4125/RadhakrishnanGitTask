@@ -12,6 +12,10 @@ public class Abc {
 		System.out.println("B code");
 	}
 
+	private void xyz() {
+		System.out.println("A code added");
+	}
+
 	public static void main(String[] args) {
 
 	}
